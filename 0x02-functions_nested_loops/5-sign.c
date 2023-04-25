@@ -8,7 +8,7 @@
  */
 
 int print_sign(int n)
-/*print_sign prints the sign of the num*/
+
 {
 	if (n > 0)
 	{
