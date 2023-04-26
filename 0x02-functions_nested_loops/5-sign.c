@@ -9,6 +9,7 @@
  */
 
 int print_sign(int n)
+/*print_sign: prints the sign of a number*/
 
 {
 	if (n > 0)
