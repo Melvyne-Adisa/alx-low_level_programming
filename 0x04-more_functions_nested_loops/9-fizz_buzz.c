@@ -1,5 +1,5 @@
 #include "main.h"
-include < stdio.h >
+#include <stdio.h>
 
 /**
  * main - prints a Fizz Buzz program
@@ -16,7 +16,7 @@ int main(void)
 	{
 	if ((x % 3 == 0) && (x % 5 == 0))
 	{
-	print("FizzBuzz");
+	printf("FizzBuzz");
 	}
 	else if (x % 3 == 0)
 	{
