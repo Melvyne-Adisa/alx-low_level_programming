@@ -2,7 +2,7 @@
 
 /**
  * print_triangle - prints a triangle of squares according parameter
- * @sizw: The size of the squares triangle
+ * @size: The size of the squares triangle
  * Return: empty
  */
 
